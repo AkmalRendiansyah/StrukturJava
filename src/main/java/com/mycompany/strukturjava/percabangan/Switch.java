@@ -1,0 +1,46 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package com.mycompany.strukturjava.percabangan;
+
+/**
+ *
+ * @author Lenovo
+ */
+public class Switch {
+     public static void main(String[] args) {
+        int input = 6;
+        switch (input) {
+            case 1:
+                System.out.println("1");
+                break;
+            case 2:
+                System.out.println("2");
+                break;
+            case 3:
+                System.out.println("3");
+                break;
+            case 4:
+                System.out.println("4");
+                break;
+            case 5:
+                System.out.println("5");
+                break;
+            case 6:
+                System.out.println("6");
+                break;
+            case 7:
+                System.out.println("7");
+                break;
+            case 8:
+                System.out.println("8");
+                break;
+            case 9:
+                System.out.println("9");
+                break;
+            default:
+                break;
+        }
+    }
+}
